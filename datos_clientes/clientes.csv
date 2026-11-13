@@ -1,0 +1,11 @@
+ID_Cliente,Nombre,Apellido,Fecha_Registro,Correo_electrónico,Teléfono,Ciudad,Estado_Cliente
+CLI-001,José,Chávez,10/01/2025,jose.chavez12@ejemplo.com,555-7001,Portoviejo,Activo
+CLI-002,Lucía,Salinas,15/02/2025,lucia.salinas45@ejemplo.com,555-7002,Portoviejo,Activo
+CLI-003,Mateo,Vera,20/03/2025,mateo.vera78@ejemplo.com,555-7003,Chone,Inactivo
+CLI-004,Valeria,Paz,05/04/2025,valeria.paz23@ejemplo.com,555-7004,Manta,Activo
+CLI-005,Santiago,Castro,12/05/2025,santiago.castro56@ejemplo.com,555-7005,Quevedo,Activo
+CLI-006,Elena,Rojas,28/06/2025,elena.rojas89@ejemplo.com,555-7006,Portoviejo,Inactivo
+CLI-007,Andrea,Delgado,03/07/2025,andrea.delgado01@ejemplo.com,555-7007,Manta,Activo
+CLI-008,Brandon,Ortiz,14/08/2025,brandon.ortiz34@ejemplo.com,555-7008,Chone,Activo
+CLI-009,Camila,Mendoza,22/09/2025,camila.mendoza67@ejemplo.com,555-7009,Quevedo,Activo
+CLI-010,Daniel,Navarro,30/10/2025,daniel.navarro90@ejemplo.com,555-7010,Portoviejo,Pendiente
