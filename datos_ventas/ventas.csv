@@ -1,0 +1,11 @@
+ID_Venta,Fecha,Categoria,Producto,Cantidad,Precio_Unitario,Total,Vendedor
+VEN-001,01/11/2026,Ropa,Camisetas Deportivas,15,12.50,187.50,Lucía Salinas
+VEN-002,03/11/2026,Calzada,Zapatillas Running,8,45.00,360.00,José Chávez
+VEN-003,05/11/2026,Ropa,Pantalones Jeans,12,28.00,336.00,Andrea Delgado
+VEN-004,06/11/2026,Accesorios,Mochilas,6,35.00,210.00,Mateo Vera
+VEN-005,07/11/2026,Ropa,Chaquetas,5,50.00,250.00,Valeria Paz
+VEN-006,09/11/2026,Calzada,Zapatos Casuales,10,38.00,380.00,Brandon Ortiz
+VEN-007,10/11/2026,Accesorios,Gorras,20,8.50,170.00,Camila Mendoza
+VEN-008,11/11/2026,Ropa,Polos,25,10.00,250.00,Daniel Navarro
+VEN-009,12/11/2026,Accesorios,Medias Paquete x3,30,6.00,180.00,Elena Rojas
+VEN-010,13/11/2026,Calzada,Botas,4,65.00,260.00,Santiago Castro
